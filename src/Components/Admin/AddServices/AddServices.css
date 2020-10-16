@@ -1,0 +1,28 @@
+.add-services {
+    margin: 20px 0 0 1px;
+}
+.add-services h6 {
+    font-weight: 600;
+}
+.add-services-form {
+    background-color: #f4f7fc;
+    padding: 40px 20px 100px 20px;
+}
+.add-services form {
+    width: 600px;
+}
+@media (max-width: 992px) {
+    .add-services-form form {
+        width: 100%;
+    }
+}
+.add-services-form input {
+    height: 50px;
+    font-size: 14px;
+    border: none;
+}
+.add-services-form textarea {
+    max-height: 100px;
+    font-size: 14px;
+    border: none;
+}

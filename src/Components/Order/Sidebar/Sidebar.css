@@ -1,0 +1,9 @@
+.sidebar p {
+    font-size: 13px;
+    line-height: unset;
+    cursor: pointer;
+    color: black;
+}
+.sidebar p:hover {
+    color: green;
+}

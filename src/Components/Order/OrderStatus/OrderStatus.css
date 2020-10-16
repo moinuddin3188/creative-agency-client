@@ -1,0 +1,15 @@
+.order-status {
+    margin: 20px 0 0 1px;
+}
+.order-status h6 {
+    font-weight: 600;
+}
+.orders {
+    background-color: #f4f7fc;
+    padding: 25px 20px 50px 20px;
+}
+@media (min-width: 992px) {
+    .orders {
+        padding-right: 150px;
+    }
+}

@@ -1,0 +1,10 @@
+.make-admin {
+    margin: 20px 0 0 1px;
+}
+.make-admin h6 {
+    font-weight: 600;
+}
+.make-admin-form {
+    background-color: #f4f7fc;
+    padding: 40px 20px 100px 20px;
+}

@@ -1,0 +1,19 @@
+.header-main {
+    padding: 70px 0 80px 0;
+}
+.header-main h1 {
+    font-weight: 700;
+    line-height: 52px;
+    color: #111430;
+}
+.header-main p {
+    margin: 30px 0;
+}
+.header-main button {
+    border: none;
+    border-radius: 5px;
+    background-color: #111430;
+    font-size: 13px;
+    padding: 7px 35px;
+    color: #fff;
+}

@@ -1,0 +1,22 @@
+.service-card {
+    height: 324px;
+    padding: 40px;
+}
+.service-card:hover {
+    box-shadow: 7px 7px 30px #d1d1d1;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.service-card img {
+    width: 80px;
+}
+.service-card h5 {
+    font-weight: 500;
+    margin-top: 15px;
+}
+.service-card p {
+    color: gray;
+    font-size: 15px;
+    margin-top: 20px;
+    font-weight: 300;
+}

@@ -1,0 +1,23 @@
+.order-card {
+    padding: 20px;
+    border-radius: 7px;
+    background-color: #fff;
+    width: 400px;
+}
+@media (max-width: 992px) {
+    .order-card {
+        width: 100%;
+    }
+}
+.order-card h6 {
+    margin-top: 10px
+}
+.order-card p {
+    font-size: 13px;
+    color: gray;
+}
+.status-btn {
+    border: none;
+    padding: 6px 20px;
+    font-size: 12px;
+}

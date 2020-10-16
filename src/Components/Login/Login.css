@@ -1,0 +1,26 @@
+.login {
+    width: 400px;
+    border: 1px solid lightgrey;
+    margin-top: 20px;
+    border-radius: 4px;
+    padding: 100px 50px;
+}
+.login button {
+    width: 100%;
+    border: 1px solid lightgrey;
+    border-radius: 50px;
+    background: none;
+}
+.login h5 {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.login p {
+    font-size: 12px;
+    margin-top: 5px;
+}
+.login p span {
+    color: green;
+    text-decoration: underline;
+    cursor: pointer;
+}

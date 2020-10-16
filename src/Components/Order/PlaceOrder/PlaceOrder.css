@@ -1,0 +1,41 @@
+.order {
+    margin: 20px 0 0 1px;
+}
+.order h6 {
+    font-weight: 600;
+}
+.place-order-form {
+    background-color: #f4f7fc;
+    padding: 40px 20px 100px 20px;
+}
+.order form {
+    width: 500px;
+}
+@media (max-width: 992px) {
+    .order form {
+        width: 100%;
+    }
+}
+.order input {
+    height: 50px;
+    font-size: 14px;
+    border: none;
+}
+.order textarea {
+    max-height: 100px;
+    font-size: 14px;
+    border: none;
+}
+form span {
+    font-size: 11px;
+    color: #f53232;
+}
+.custom-file-label::after {
+    height: 50px;
+    padding-top: 13px;
+}
+.custom-file-label {
+    height: 50px;
+    border: none;
+    padding-top: 13px;
+}
